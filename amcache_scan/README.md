@@ -7,8 +7,8 @@ How to use Amcache_Scan Autopsy Plugin:
 3. Enter VirusTotal API Key. Select the 'Private API Key?' Checkbox if you have private VirusTotal API Key.
 
 The module will parses the following key:<br />
-- Amcache.hve\Root\File\*?\*?
-- Amcache.hve\Root\Programs\*? 
+- Amcache.hve\\Root\\File\\*?\\*?
+- Amcache.hve\\Root\\Programs\\*? 
 - Amcache.hve\Root\InventoryApplicationFile\*?
 - Amcache.hve\Root\InventoryDeviceContainer\*?
 - Amcache.hve\Root\InventoryDevicePnp\*?
